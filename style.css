@@ -1,0 +1,44 @@
+*{
+    background-color: black;
+}
+.title{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 10px;
+    font-size: 50px;
+    font-weight: normal;
+}
+#time{
+    color: white;
+    text-align: center;
+    font-size: 10em;
+    font-family: sans-serif;
+}
+#date{
+    text-align: center;
+    font-size: 4em;
+    color: white;
+    font-family: sans-serif;
+    letter-spacing: 10px;
+}
+button{
+    background-color: white;   
+    font-weight: bold; 
+    margin: none;
+    height: 50px;
+    width: 80px;
+    border-radius: 7px;
+    font-size: large;
+   cursor: pointer;
+}
+#btn1{
+    position: absolute;
+    left: 660px;
+    top: 420px;
+}
+#btn2{
+    position: absolute;
+    left: 770px;
+    top: 420px;
+}
